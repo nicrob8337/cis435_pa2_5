@@ -1,0 +1,29 @@
+body{
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, ul, li{
+  font-family: 'Times New Roman', Times, serif;
+}
+ul.header li{
+  display: inline;
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header{
+  padding: 0;
+}
+ul.header li a{
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+div.header{
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+
+
